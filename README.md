@@ -1,6 +1,5 @@
 # UniqueNook
 Mern stack ecommerce application with react-redux toolkit and many other features
-MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many other features mentioned below
 
 Features :
 
